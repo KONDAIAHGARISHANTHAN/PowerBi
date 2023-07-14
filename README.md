@@ -1,2 +1,2 @@
 # PowerBi
-Code basics project challenge
+Participated resume project challenge by code-basics developed a interactive dashboard
